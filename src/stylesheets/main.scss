@@ -1,6 +1,6 @@
 // Before import
 
-$primary: #12260d;
+$primary: #C1D8C3;
 $secondary: #FFD936;
 $info: #536942;
 $dark: #1a1a1d;
@@ -25,13 +25,13 @@ $theme-colors: (
 .hero-overlay {
             position: relative;
             height: 60vh;
-            background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/finance2.jpg');
             background-size: cover;
             background-position: center;
             display: flex;
             align-items: center;
             justify-content: center;
             color: white;
+            
         }
         
         .hero-content {
